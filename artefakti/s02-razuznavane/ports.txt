@@ -1,0 +1,9 @@
+# Nmap 7.95 - nmap -p- 192.168.10.10
+Nmap scan report for 192.168.10.10
+Host is up (0.000069s latency).
+Not shown: 65532 closed tcp ports (reset)
+PORT     STATE SERVICE
+22/tcp   open  ssh
+6000/tcp open  X11
+7500/tcp open  silhouette
+Nmap done: 1 IP address (1 host up) scanned in 2.15 seconds

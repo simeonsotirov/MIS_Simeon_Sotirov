@@ -1,0 +1,6 @@
+# Nmap 7.95 - nmap -sn 192.168.10.0/24
+Nmap scan report for 192.168.10.1
+Host is up (0.00060s latency).
+Nmap scan report for 192.168.10.10
+Host is up (0.0024s latency).
+Nmap done: 256 IP addresses (2 hosts up) scanned in 2.92 seconds

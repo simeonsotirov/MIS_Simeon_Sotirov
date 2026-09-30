@@ -1,0 +1,10 @@
+# Nmap 7.95 scan, nmap -sV -p7500,6000 192.168.10.10
+Nmap scan report for 192.168.10.10
+Host is up (0.00028s latency).
+
+PORT     STATE SERVICE VERSION
+6000/tcp open  X11?
+7500/tcp open  http    SimpleHTTPServer 0.6 (Python 3.13.5)
+
+Service detection performed. 1 service (6000) unrecognized - ncat listener, връща QC-COLLECTOR-READY.
+MAC Address: 08:00:27:15:24:27 (Oracle VirtualBox virtual NIC)

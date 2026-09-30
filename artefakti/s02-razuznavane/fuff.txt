@@ -1,0 +1,6 @@
+ffuf -u http://192.168.10.10:7500/FUZZ -w common.txt
+
+/            Status 200
+backup       Status 301
+index.html   Status 200
+robots.txt   Status 200
